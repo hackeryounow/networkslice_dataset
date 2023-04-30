@@ -1,0 +1,300 @@
+Service Type,Slice Type,Time/h,UpLink/Mbps,DownLink/Mbps,Processor,Memory/GB
+Remote Driving,mMTC,1,2.5,1,10,14
+Remote Driving,mMTC,2,2.5,1,10,14
+Remote Driving,mMTC,3,2.5,1,10,14
+Remote Driving,mMTC,4,2.5,1,10,14
+Remote Driving,mMTC,5,2.5,1,10,14
+Remote Driving,mMTC,6,2.5,1,10,14
+Remote Driving,mMTC,7,2.5,1,10,14
+Remote Driving,mMTC,8,2.5,1,10,14
+Remote Driving,mMTC,9,2.5,1,10,14
+Remote Driving,mMTC,10,2.5,1,10,14
+Remote Driving,mMTC,11,2.5,1,10,14
+Remote Driving,mMTC,12,2.5,1,10,14
+Remote Driving,mMTC,13,2.5,1,10,14
+Remote Driving,mMTC,14,2.5,1,10,14
+Remote Driving,mMTC,15,2.5,1,10,14
+Remote Driving,mMTC,16,2.5,1,10,14
+Remote Driving,mMTC,17,2.5,1,10,14
+Remote Driving,mMTC,18,2.5,1,10,14
+Remote Driving,mMTC,19,2.5,1,10,14
+Remote Driving,mMTC,20,2.5,1,10,14
+Remote Driving,mMTC,21,2.5,1,10,14
+Remote Driving,mMTC,22,2.5,1,10,14
+Remote Driving,mMTC,23,2.5,1,10,14
+Intelligent Transport System,mMTC,1,1.1,1.1,10,14
+Intelligent Transport System,mMTC,2,1.1,1.1,10,14
+Intelligent Transport System,mMTC,3,1.1,1.1,10,14
+Intelligent Transport System,mMTC,4,1.1,1.1,10,14
+Intelligent Transport System,mMTC,5,1.1,1.1,10,14
+Intelligent Transport System,mMTC,6,1.1,1.1,10,14
+Intelligent Transport System,mMTC,7,1.1,1.1,10,14
+Intelligent Transport System,mMTC,8,1.1,1.1,10,14
+Intelligent Transport System,mMTC,9,1.1,1.1,10,14
+Intelligent Transport System,mMTC,10,1.1,1.1,10,14
+Intelligent Transport System,mMTC,11,1.1,1.1,10,14
+Intelligent Transport System,mMTC,12,1.1,1.1,10,14
+Intelligent Transport System,mMTC,13,1.1,1.1,10,14
+Intelligent Transport System,mMTC,14,1.1,1.1,10,14
+Intelligent Transport System,mMTC,15,1.1,1.1,10,14
+Intelligent Transport System,mMTC,16,1.1,1.1,10,14
+Intelligent Transport System,mMTC,17,1.1,1.1,10,14
+Intelligent Transport System,mMTC,18,1.1,1.1,10,14
+Intelligent Transport System,mMTC,19,1.1,1.1,10,14
+Intelligent Transport System,mMTC,20,1.1,1.1,10,14
+Intelligent Transport System,mMTC,21,1.1,1.1,10,14
+Intelligent Transport System,mMTC,22,1.1,1.1,10,14
+Intelligent Transport System,mMTC,23,1.1,1.1,10,14
+Low Voltage Collection of Smart Grid,mMTC,1,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,2,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,3,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,4,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,5,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,6,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,7,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,8,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,9,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,10,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,11,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,12,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,13,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,14,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,15,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,16,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,17,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,18,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,19,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,20,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,21,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,22,1.5,1.5,10,14
+Low Voltage Collection of Smart Grid,mMTC,23,1.5,1.5,10,14
+V2I-Driver Information Service,mMTC,1,0.5,0.5,10,14
+V3I-Driver Information Service,mMTC,2,0.5,0.5,10,14
+V4I-Driver Information Service,mMTC,3,0.5,0.5,10,14
+V5I-Driver Information Service,mMTC,4,0.5,0.5,10,14
+V6I-Driver Information Service,mMTC,5,0.5,0.5,10,14
+V7I-Driver Information Service,mMTC,6,0.5,0.5,10,14
+V8I-Driver Information Service,mMTC,7,0.5,0.5,10,14
+V9I-Driver Information Service,mMTC,8,0.5,0.5,10,14
+V10I-Driver Information Service,mMTC,9,0.5,0.5,10,14
+V11I-Driver Information Service,mMTC,10,0.5,0.5,10,14
+V12I-Driver Information Service,mMTC,11,0.5,0.5,10,14
+V13I-Driver Information Service,mMTC,12,0.5,0.5,10,14
+V14I-Driver Information Service,mMTC,13,0.5,0.5,10,14
+V15I-Driver Information Service,mMTC,14,0.5,0.5,10,14
+V16I-Driver Information Service,mMTC,15,0.5,0.5,10,14
+V17I-Driver Information Service,mMTC,16,0.5,0.5,10,14
+V18I-Driver Information Service,mMTC,17,0.5,0.5,10,14
+V19I-Driver Information Service,mMTC,18,0.5,0.5,10,14
+V20I-Driver Information Service,mMTC,19,0.5,0.5,10,14
+V21I-Driver Information Service,mMTC,20,0.5,0.5,10,14
+V22I-Driver Information Service,mMTC,21,0.5,0.5,10,14
+V23I-Driver Information Service,mMTC,22,0.5,0.5,10,14
+V24I-Driver Information Service,mMTC,23,0.5,0.5,10,14
+Precise Loading Control of Smart Grid,URLLC,1,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,2,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,3,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,4,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,5,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,6,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,7,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,8,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,9,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,10,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,11,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,12,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,13,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,14,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,15,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,16,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,17,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,18,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,19,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,20,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,21,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,22,1.13,1.13,13,18
+Precise Loading Control of Smart Grid,URLLC,23,1.13,1.13,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,1,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,2,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,3,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,4,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,5,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,6,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,7,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,8,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,9,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,10,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,11,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,12,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,13,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,14,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,15,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,16,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,17,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,18,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,19,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,20,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,21,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,22,2,2,13,18
+Intelligent Distribution Network Differential Protection of Smart Grid,URLLC,23,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,1,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,2,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,3,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,4,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,5,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,6,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,7,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,8,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,9,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,10,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,11,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,12,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,13,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,14,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,15,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,16,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,17,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,18,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,19,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,20,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,21,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,22,2,2,13,18
+"Telemetering, Remote Signalling and Remote Control System Automation of Smart Grid",URLLC,23,2,2,13,18
+Emergency Communication of Smart Grid,URLLC,1,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,2,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,3,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,4,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,5,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,6,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,7,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,8,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,9,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,10,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,11,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,12,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,13,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,14,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,15,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,16,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,17,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,18,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,19,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,20,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,21,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,22,20,20,13,18
+Emergency Communication of Smart Grid,URLLC,23,20,20,13,18
+Image Recognition (Smart Phone),eMBB,1,10,10,10,12
+Image Recognition (Smart Phone),eMBB,2,10,10,10,12
+Image Recognition (Smart Phone),eMBB,3,10,10,10,12
+Image Recognition (Smart Phone),eMBB,4,10,10,10,12
+Image Recognition (Smart Phone),eMBB,5,10,10,10,12
+Image Recognition (Smart Phone),eMBB,6,10,10,10,12
+Image Recognition (Smart Phone),eMBB,7,10,10,10,12
+Image Recognition (Smart Phone),eMBB,8,10,10,10,12
+Image Recognition (Smart Phone),eMBB,9,10,10,10,12
+Image Recognition (Smart Phone),eMBB,10,10,10,10,12
+Image Recognition (Smart Phone),eMBB,11,10,10,10,12
+Image Recognition (Smart Phone),eMBB,12,10,10,10,12
+Image Recognition (Smart Phone),eMBB,13,10,10,10,12
+Image Recognition (Smart Phone),eMBB,14,10,10,10,12
+Image Recognition (Smart Phone),eMBB,15,10,10,10,12
+Image Recognition (Smart Phone),eMBB,16,10,10,10,12
+Image Recognition (Smart Phone),eMBB,17,10,10,10,12
+Image Recognition (Smart Phone),eMBB,18,10,10,10,12
+Image Recognition (Smart Phone),eMBB,19,10,10,10,12
+Image Recognition (Smart Phone),eMBB,20,10,10,10,12
+Image Recognition (Smart Phone),eMBB,21,10,10,10,12
+Image Recognition (Smart Phone),eMBB,22,10,10,10,12
+Image Recognition (Smart Phone),eMBB,23,10,10,10,12
+Remote B-ultrasound (Doctor),eMBB,1,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,2,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,3,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,4,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,5,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,6,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,7,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,8,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,9,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,10,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,11,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,12,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,13,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,14,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,15,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,16,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,17,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,18,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,19,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,20,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,21,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,22,9,18,10,12
+Remote B-ultrasound (Doctor),eMBB,23,9,18,10,12
+Remote B-ultrasound (Patient),eMBB,1,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,2,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,3,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,4,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,5,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,6,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,7,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,8,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,9,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,10,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,11,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,12,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,13,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,14,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,15,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,16,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,17,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,18,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,19,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,20,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,21,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,22,18,9,10,12
+Remote B-ultrasound (Patient),eMBB,23,18,9,10,12
+Telesurgery (Doctor),eMBB,1,12,20,10,12
+Telesurgery (Doctor),eMBB,2,12,20,10,12
+Telesurgery (Doctor),eMBB,3,12,20,10,12
+Telesurgery (Doctor),eMBB,4,12,20,10,12
+Telesurgery (Doctor),eMBB,5,12,20,10,12
+Telesurgery (Doctor),eMBB,6,12,20,10,12
+Telesurgery (Doctor),eMBB,7,12,20,10,12
+Telesurgery (Doctor),eMBB,8,12,20,10,12
+Telesurgery (Doctor),eMBB,9,12,20,10,12
+Telesurgery (Doctor),eMBB,10,12,20,10,12
+Telesurgery (Doctor),eMBB,11,12,20,10,12
+Telesurgery (Doctor),eMBB,12,12,20,10,12
+Telesurgery (Doctor),eMBB,13,12,20,10,12
+Telesurgery (Doctor),eMBB,14,12,20,10,12
+Telesurgery (Doctor),eMBB,15,12,20,10,12
+Telesurgery (Doctor),eMBB,16,12,20,10,12
+Telesurgery (Doctor),eMBB,17,12,20,10,12
+Telesurgery (Doctor),eMBB,18,12,20,10,12
+Telesurgery (Doctor),eMBB,19,12,20,10,12
+Telesurgery (Doctor),eMBB,20,12,20,10,12
+Telesurgery (Doctor),eMBB,21,12,20,10,12
+Telesurgery (Doctor),eMBB,22,12,20,10,12
+Telesurgery (Doctor),eMBB,23,12,20,10,12
+Telesurgery (Patient),eMBB,1,20,12,10,12
+Telesurgery (Patient),eMBB,2,20,12,10,12
+Telesurgery (Patient),eMBB,3,20,12,10,12
+Telesurgery (Patient),eMBB,4,20,12,10,12
+Telesurgery (Patient),eMBB,5,20,12,10,12
+Telesurgery (Patient),eMBB,6,20,12,10,12
+Telesurgery (Patient),eMBB,7,20,12,10,12
+Telesurgery (Patient),eMBB,8,20,12,10,12
+Telesurgery (Patient),eMBB,9,20,12,10,12
+Telesurgery (Patient),eMBB,10,20,12,10,12
+Telesurgery (Patient),eMBB,11,20,12,10,12
+Telesurgery (Patient),eMBB,12,20,12,10,12
+Telesurgery (Patient),eMBB,13,20,12,10,12
+Telesurgery (Patient),eMBB,14,20,12,10,12
+Telesurgery (Patient),eMBB,15,20,12,10,12
+Telesurgery (Patient),eMBB,16,20,12,10,12
+Telesurgery (Patient),eMBB,17,20,12,10,12
+Telesurgery (Patient),eMBB,18,20,12,10,12
+Telesurgery (Patient),eMBB,19,20,12,10,12
+Telesurgery (Patient),eMBB,20,20,12,10,12
+Telesurgery (Patient),eMBB,21,20,12,10,12
+Telesurgery (Patient),eMBB,22,20,12,10,12
+Telesurgery (Patient),eMBB,23,20,12,10,12
