@@ -8,5 +8,5 @@ The dataset is just the basic data of slice requests dataset. It describes the r
 
 
 
-
+Note that some services origin from [5G ToB Service Experience Standard White Paper](https://carrier.huawei.com/~/media/cnbgv2/download/products/servies/5g-b2b-service-experience-standard-white-paper-en1.pdf) by Huawei.
 
